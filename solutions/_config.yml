@@ -48,6 +48,8 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/solutions"
+production_url : http://chunguselectric.github.io/solutions
+BASE_PATH : http://chunguselectric.com/blog
 
 #
 # !! You don't need to change any of the configuration flags below !!
